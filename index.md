@@ -1,4 +1,4 @@
-# Blog về lập trình máy tính và một số  thứ hay ho khác #
+## Blog về lập trình máy tính và một số  thứ hay ho khác ##
 
 ## 2017 ##
 
