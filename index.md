@@ -2,4 +2,4 @@
 
 ## 2017 ##
 
-- [Giới thiệu bản thân, hướng nghiên cứu]()
+- [Giới thiệu bản thân, hướng nghiên cứu](https://github.com/xuantungmta/xuantungmta.github.io/blob/master/intro.md)
